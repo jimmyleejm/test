@@ -133,7 +133,7 @@ int main(int argc,char *argv[])
         sleep(5);  
     }  
   
-  show
+  show132
     return 0;  
 }  
   
